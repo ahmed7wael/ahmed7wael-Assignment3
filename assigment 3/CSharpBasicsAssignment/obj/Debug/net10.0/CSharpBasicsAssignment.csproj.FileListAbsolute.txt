@@ -1,0 +1,14 @@
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.exe
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.deps.json
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.runtimeconfig.json
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfoInputs.cache
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfo.cs
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.csproj.CoreCompileInputs.cache
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.dll
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\refint\CSharpBasicsAssignment.dll
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.pdb
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.genruntimeconfig.cache
+D:\Simualtion\assigment 3\CSharpBasicsAssignment\obj\Debug\net10.0\ref\CSharpBasicsAssignment.dll
